@@ -1,4 +1,8 @@
-### Hi there 👋
+<!-- リポジトリステータス -->
+[![shosampo's github stats-dark](https://github-readme-stats.vercel.app/api?username=ShoSampo&include_orgs=true&hide=contribs&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ShoSampo/github-readme-stats#gh-dark-mode-only)
+[![shosampo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ShoSampo&include_orgs=true&hide=contribs&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ShoSampo/github-readme-stats#gh-light-mode-only)
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoSampo&include_orgs=true&layout=compact&count_private=true&theme=transparent)](https://github.com/ShoSampo/)
 
 <!--
 **ShoSampo/ShoSampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
