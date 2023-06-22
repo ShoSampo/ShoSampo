@@ -1,7 +1,7 @@
 <!-- リポジトリステータス -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-
+---
+[![My Skills](https://skillicons.dev/icons?i=py,vim,vscode,github,git,linux,docker,figma,blender&theme=light)](https://skillicons.dev)
 <!--
 **ShoSampo/ShoSampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
