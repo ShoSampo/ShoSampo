@@ -1,5 +1,8 @@
-<!-- リポジトリステータス -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ライトテーマ用の画像 -->
+![](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
+
+<!-- ダークテーマ用の画像 -->
+![](./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
 ---
 [![My Skills](https://skillicons.dev/icons?i=py,vim,vscode,github,git,linux,docker,figma,blender&theme=light)](https://skillicons.dev)
 <!--
