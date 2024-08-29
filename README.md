@@ -4,7 +4,7 @@
 <!-- ダークテーマ用の画像 -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
 ---
-[![My Skills](https://skillicons.dev/icons?i=py,vim,vscode,github,git,linux,docker,figma,blender&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,julia,js,ts,react,vim,linux,docker,gcp,figma&theme=light)](https://skillicons.dev)
 <!--
 **ShoSampo/ShoSampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
